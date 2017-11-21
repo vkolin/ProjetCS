@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1510584490 source:c:\users\silve\desktop\bit_tables.cpp
+	<iostream>
+
+1511278581 source:c:\users\silve\desktop\main.cpp
+	<iostream>
+	"permutations.h"
+	"bit_tables.h"
+	"data_tables.h"
+	"data_messages_examples.h"
+	"sbox_helper.h"
+	<stdio.h>
+	<string.h>
+
+1511272979 c:\users\silve\desktop\permutations.h
+
+1510583310 c:\users\silve\desktop\bit_tables.h
+
+1511277432 c:\users\silve\desktop\data_tables.h
+
+1510677908 c:\users\silve\desktop\data_messages_examples.h
+
+1511272988 source:c:\users\silve\desktop\permutations.cpp
+	"permutations.h"
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1511279055 source:c:\users\silve\desktop\sbox_helper.cpp
+
+1511278588 c:\users\silve\desktop\sbox_helper.h
+
